@@ -1,0 +1,1 @@
+C:\VisualStudio2022Codes\FindingPrimes\x64\Debug\FindingPrimes.exe
